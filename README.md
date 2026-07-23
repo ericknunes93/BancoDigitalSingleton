@@ -19,7 +19,7 @@ Projeto desenvolvido em Java com o objetivo de praticar Programação Orientada 
 
 ## Estrutura do Projeto
 
-```
+```text
 src
 ├── Main.java
 ├── model
@@ -46,4 +46,4 @@ src
 
 ## Autor
 
-Erick Oliveira
+**Erick Oliveira**
